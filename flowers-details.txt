@@ -3,3 +3,4 @@ Here is the name of flowers:
 Rose
 Lily
 Sunflower
+lotus
